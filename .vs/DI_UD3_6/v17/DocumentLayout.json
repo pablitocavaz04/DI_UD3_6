@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pcamvaz2106\\source\\repos\\DI_UD3_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34BE8CE5-8E05-44A3-9F9C-D29E99AE72DC}|DI_UD3_6\\DI_UD3_6.csproj|c:\\users\\pcamvaz2106\\source\\repos\\di_ud3_6\\di_ud3_6\\ejercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BE8CE5-8E05-44A3-9F9C-D29E99AE72DC}|DI_UD3_6\\DI_UD3_6.csproj|solutionrelative:di_ud3_6\\ejercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio5.cs",
+              "DocumentMoniker": "C:\\Users\\pcamvaz2106\\source\\repos\\DI_UD3_6\\DI_UD3_6\\Ejercicio5.cs",
+              "RelativeDocumentMoniker": "DI_UD3_6\\Ejercicio5.cs",
+              "ToolTip": "C:\\Users\\pcamvaz2106\\source\\repos\\DI_UD3_6\\DI_UD3_6\\Ejercicio5.cs",
+              "RelativeToolTip": "DI_UD3_6\\Ejercicio5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:15:53.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
